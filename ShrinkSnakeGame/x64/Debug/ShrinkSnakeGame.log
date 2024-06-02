@@ -1,0 +1,240 @@
+﻿  Actor.cpp
+  CollisionInfo.cpp
+  GameMenu.cpp
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(45,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(54,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(65,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(73,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(83,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(83,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(86,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(86,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(89,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(90,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(93,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(93,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(96,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(140,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\GameMenu.cpp(223,1): warning C4102: 'hoverStopInteractEnd': unreferenced label
+  Item.cpp
+  ItemManager.cpp
+  Map.cpp
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(114,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(114,47): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(115,69): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(115,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(116,75): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(116,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(117,69): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(117,47): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(122,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(122,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(123,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(123,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(124,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(124,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(125,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(125,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(133,16): warning C4018: '>': signed/unsigned mismatch
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(133,42): warning C4018: '>': signed/unsigned mismatch
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(177,20): warning C4018: '>=': signed/unsigned mismatch
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(177,51): warning C4018: '>=': signed/unsigned mismatch
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(212,20): warning C4018: '>': signed/unsigned mismatch
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.cpp(212,50): warning C4018: '>': signed/unsigned mismatch
+  Snake.cpp
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Tips.h(5,18): warning C4099: 'mapPosition': type name first seen using 'struct' now seen using 'class'
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.h(8,8): message : see declaration of 'mapPosition'
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Snake.cpp(267,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Snake.cpp(392,90): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Snake.cpp(395,74): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  SnakeBody.cpp
+  StartMenu.cpp
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(201,104): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(203,17): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(206,124): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(208,17): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(211,104): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(213,17): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(216,80): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(217,100): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(453,105): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(465,157): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(466,169): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(478,137): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(479,149): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(491,153): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(492,165): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(508,114): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(509,126): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(561,105): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(573,157): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(574,169): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(586,137): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(587,149): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(599,153): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(600,165): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(616,114): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\StartMenu.cpp(617,126): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Tips.cpp
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.h(8,20): warning C4099: 'mapPosition': type name first seen using 'class' now seen using 'struct'
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Map.h(8,8): message : see declaration of 'mapPosition'
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Tips.cpp(38,68): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+F:\ShrinkSnakeGame\ShrinkSnakeGame\Tips.cpp(47,72): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating Code...
+  ShrinkSnakeGame.vcxproj -> F:\ShrinkSnakeGame\Output\x64\Debug\ShrinkSnakeGame.exe
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\openal32.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-audio-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-audio-d-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-graphics-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-graphics-d-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-network-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-network-d-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-system-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-system-d-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-window-2.dll
+  F:\ShrinkSnakeGame\SFML-2.6.1\bin\sfml-window-d-2.dll
+  复制了 11 个文件
